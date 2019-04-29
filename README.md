@@ -4,7 +4,4 @@ Using a Splinter browser and Beautiful Soup to scrape a csv file of Instagram in
 
 ### Prerequisites
 
-Jupyter Notebook
-Beautiful Soup
-Selenium
-Splinter
+Jupyter Notebook, Beautiful Soup, Selenium, Splinter
